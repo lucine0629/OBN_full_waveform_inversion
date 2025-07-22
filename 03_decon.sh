@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## script: decon.sh
-### purpose: apply the predictive deconvolution to supprese the seimsic bubble/ghost
+### purpose: apply autocorrelation and the predictive deconvolution to supprese the seimsic bubble/ghost
 ##4=hydrophone, 1=geophone
 
 suplot="wbox=9 hbox=6"
