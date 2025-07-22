@@ -1,10 +1,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
-% Name: bandpass_filt_upicker.m
+% Name: bandpass_filter.m
 %
 % Function: bandpass filter the obs data using upicker
 
-% Author: Zhikai Wang (zw1m23@soton.ac.uk)
-%         22-08-2023;
+% Author: SZU-YING Lai (syll1n21@soton.ac.uk)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear; clc; close all;
