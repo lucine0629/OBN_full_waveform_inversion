@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
-% Name: plot_spectrum.m
+% Name: plot_amp_spectrum.m
 %
-% Function: Plot the amplitude spectrum
+% Function: Plot the amplitude spectrum for SEGY seismic data
 
 % Author: Szu-Ying Lai (syll1n21@soton.ac.uk)
 %         24-09-2024;
